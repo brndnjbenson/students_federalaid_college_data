@@ -1,0 +1,33 @@
+opeid	name	city	state	fips
+1725400	Allied Institute Of Technology		IL	17031
+2613800	An Jons School Of Cosmetology	Hemet	CA	6065
+212100	Babson College	Babson Park	MA	25021
+213300	Brandeis University	Waltham	MA	25017
+1732300	Casino Careers Institute	Sparks	NV	32031
+729600	Coleman College	La Mesa	CA	6073
+2363600	Daytona Beauty School	Daytona Beach	FL	12127
+715200	Deloux Schools Of Cosmetology	La Mesa	CA	6073
+3200400	Desert Career College	Palm Springs	CA	6065
+1640200	Elkins Institute In Atlanta	Atlanta 	GA	47041
+2302200	Florida Bible College	Kissimmee	FL	12097
+120100	Fullerton Junior College	Fullerton	CA	6059
+2255300	Grossmont Hospital Schl Of Medical Techlgy	La Mesa	CA	6073
+1168500	Gte Sylvania Technical School	Waltham	MA	25017
+2491200	Hammond Academy Of Beauty Culture	Hammond	IN	18089
+1667200	Image Makers Beauty Academy		DC	11001
+1017400	International Inst Of Hair Design	Midvale	UT	49035
+3004500	Jimmy Swaggart Bible College	Baton Rouge	LA	22033
+2172600	La Boutique Of Beauty Academy	Holiday	FL	12101
+1581000	Midwest College Of Med Assistants	Kansas City	MO	29095
+156500	Oxford College Of Emory University	Oxford	GA	13217
+1113000	Phillips College	Augusta	GA	13245
+220100	Pine Manor College	Chestnut Hill	MA	25017
+468200	Pontiac Business Institute	Pontiac	MI	26125
+2261600	Romar Hairstyling Academy	Kissimmee	FL	12009
+4166800	Salon Professional Academy (The)	Perrysburg	OH	39173
+2303100	Sarasota Beauty School	Sarasota	FL	12115
+1151200	State College Of Beauty	Bloomfield Hills	MI	26125
+2233000	Suncoast Beauty College	Clearwater	FL	12103
+2118500	Ultissima Bty Inst At Ridgewood	Ridgewood	NY	36081
+2275700	University Hosp Sch Of Radiography	Augusta	GA	13245
+266200	University Of Albuquerque	Albuquerque	NM	35001
