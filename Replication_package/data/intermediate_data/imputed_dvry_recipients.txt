@@ -1,0 +1,100 @@
+opeid	year	name	imputed_recipients	imputed_pell_ind	drate	imputed_nbr	imputed_nbr_ind
+245500	2000	Devry Institute of Technology	1208	1	9.5		
+309900	2000	Devry Institute of Technology	2075	1	14.5		
+832200	2000	Devry Institute of Technology	2441	1	8.8		
+922400	2000	Devry Institute of Technology	2294	1	18.6		
+922800	2000	Devry College of Technology	1654	1	10.7		
+1013900	2000	Devry Institute of Technology	1563	1	17.9		
+1072700	2000	Devry University	2978	1	15.1		
+2296600	2000	Devry Institute of Technology	1258	1	11.7		
+2332900	2000	Devry Institute of Technology	3754	1	10.6		
+245500	2001	Devry Institute of Technology	1379	1	4.8		
+309900	2001	Devry Institute of Technology	2368	1	9.2		
+832200	2001	Devry Institute of Technology	2786	1	7.6		
+922400	2001	Devry Institute of Technology	2618	1	10.2		
+922800	2001	Devry College of Technology	1888	1	9.6		
+1013900	2001	Devry Institute of Technology	1784	1	14.1		
+1072700	2001	Devry University	3398	1	9.6		
+2296600	2001	Devry Institute of Technology	1435	1	7.2		
+2332900	2001	Devry Institute of Technology	4284	1	9.6		
+245500	2002	Devry Institute of Technology	1543	1	8.9	1346	1
+309900	2002	Devry Institute of Technology	2650	1	8.9	1694	1
+832200	2002	Devry Institute of Technology	3117	1	8.9	2009	1
+922400	2002	Devry Institute of Technology	2929	1	8.9	1886	1
+922800	2002	Devry College of Technology	2112	1	8.9	1910	1
+1013900	2002	Devry Institute of Technology	1996	1	8.9	1615	1
+1072700	2002	Devry University	3802	1	8.9	2897	1
+2296600	2002	Devry Institute of Technology	1606	1	8.9	1906	1
+2332900	2002	Devry Institute of Technology	4793	1	8.9	2897	1
+245500	2003	Devry Institute of Technology	1581	1	7.8	1428	1
+309900	2003	Devry Institute of Technology	2716	1	7.8	1797	1
+832200	2003	Devry Institute of Technology	3195	1	7.8	2131	1
+922400	2003	Devry Institute of Technology	3003	1	7.8	2001	1
+922800	2003	Devry College of Technology	2165	1	7.8	2026	1
+1013900	2003	Devry Institute of Technology	2046	1	7.8	1713	1
+1072700	2003	Devry University	3897	1	7.8	3074	1
+2296600	2003	Devry Institute of Technology	1646	1	7.8	2022	1
+2332900	2003	Devry Institute of Technology	4913	1	7.8	3074	1
+245500	2004	Devry Institute of Technology	1728	1	7.3	1640	1
+309900	2004	Devry Institute of Technology	2967	1	7.3	2063	1
+832200	2004	Devry Institute of Technology	3491	1	7.3	2447	1
+922400	2004	Devry Institute of Technology	3280	1	7.3	2298	1
+922800	2004	Devry College of Technology	2365	1	7.3	2326	1
+1013900	2004	Devry Institute of Technology	2235	1	7.3	1967	1
+1072700	2004	Devry University	4258	1	7.3	3529	1
+2296600	2004	Devry Institute of Technology	1798	1	7.3	2322	1
+2332900	2004	Devry Institute of Technology	5368	1	7.3	3529	1
+245500	2005	Devry Institute of Technology	1644	1	5.7	2008	1
+309900	2005	Devry Institute of Technology	2824	1	5.7	2525	1
+832200	2005	Devry Institute of Technology	3322	1	5.7	2996	1
+922400	2005	Devry Institute of Technology	3122	1	5.7	2813	1
+922800	2005	Devry College of Technology	2251	1	5.7	2847	1
+1013900	2005	Devry Institute of Technology	2128	1	5.7	2408	1
+1072700	2005	Devry University	4052	1	5.7	4320	1
+2296600	2005	Devry Institute of Technology	1711	1	5.7	2843	1
+2332900	2005	Devry Institute of Technology	5109	1	5.7	4320	1
+245500	2006	Devry Institute of Technology	1652	1	6.5	2161	1
+309900	2006	Devry Institute of Technology	2837	1	6.5	2718	1
+832200	2006	Devry Institute of Technology	3337	1	6.5	3225	1
+922400	2006	Devry Institute of Technology	3136	1	6.5	3028	1
+922800	2006	Devry College of Technology	2261	1	6.5	3065	1
+1013900	2006	Devry Institute of Technology	2137	1	6.5	2592	1
+1072700	2006	Devry University	4071	1	6.5	4650	1
+2296600	2006	Devry Institute of Technology	1719	1	6.5	3060	1
+2332900	2006	Devry Institute of Technology	5132	1	6.5	4650	1
+245500	2007	Devry Institute of Technology	1758	1	6.6	2176	1
+309900	2007	Devry Institute of Technology	3019	1	6.6	2736	1
+832200	2007	Devry Institute of Technology	3551	1	6.6	3246	1
+922400	2007	Devry Institute of Technology	3338	1	6.6	3048	1
+922800	2007	Devry College of Technology	2406	1	6.6	3085	1
+1013900	2007	Devry Institute of Technology	2274	1	6.6	2609	1
+1072700	2007	Devry University	4332	1	6.6	4682	1
+2296600	2007	Devry Institute of Technology	1830	1	6.6	3080	1
+2332900	2007	Devry Institute of Technology	5461	1	6.6	4682	1
+245500	2008	Devry Institute of Technology	2084	1	7.3	2054	1
+309900	2008	Devry Institute of Technology	3579	1	7.3	2583	1
+832200	2008	Devry Institute of Technology	4210	1	7.3	3064	1
+922400	2008	Devry Institute of Technology	3957	1	7.3	2877	1
+922800	2008	Devry College of Technology	2853	1	7.3	2913	1
+1013900	2008	Devry Institute of Technology	2696	1	7.3	2463	1
+1072700	2008	Devry University	5135	1	7.3	4419	1
+2296600	2008	Devry Institute of Technology	2169	1	7.3	2908	1
+2332900	2008	Devry Institute of Technology	6474	1	7.3	4419	1
+245500	2009	Devry Institute of Technology	2494	1	9	1809	1
+309900	2009	Devry Institute of Technology	4283	1	9	2276	1
+832200	2009	Devry Institute of Technology	5038	1	9	2700	1
+922400	2009	Devry Institute of Technology	4735	1	9	2535	1
+922800	2009	Devry College of Technology	3414	1	9	2566	1
+1013900	2009	Devry Institute of Technology	3226	1	9	2170	1
+1072700	2009	Devry University	6145	1	9	3893	1
+2296600	2009	Devry Institute of Technology	2595	1	9	2562	1
+2332900	2009	Devry Institute of Technology	7748	1	9	3893	1
+245500	2010	Devry Institute of Technology	4265	1	10.2		
+309900	2010	Devry Institute of Technology	5366	1	10.2		
+832200	2010	Devry Institute of Technology	6365	1	10.2		
+922400	2010	Devry Institute of Technology	5976	1	10.2		
+922800	2010	Devry College of Technology	6050	1	10.2		
+1013900	2010	Devry Institute of Technology	5116	1	10.2
+1072700	2010	Devry University	9178	1	10.2
+2296600	2010	Devry Institute of Technology	6040	1	10.2
+2332900	2010	Devry Institute of Technology	9178	1	10.2
